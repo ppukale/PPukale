@@ -47,6 +47,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/-TestNG-25A162?style=flat-square&logo=testng&logoColor=white" />
 </a>
+    <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
 <h4>Operating System:</h4>
 <a href="#">
   <img src="https://img.shields.io/badge/-AWS%20EC2-F79111?style=flat-square&logo=amazonaws&logoColor=white" />
